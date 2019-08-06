@@ -2,7 +2,7 @@
 This repository provides sample code for uploading files from Google Drive to Google Cloud Storage using a Python 3.7 Google Cloud Function.
 
 ## Setup
-1. Activate Google Cloud functions API for your project
+1. Activate Google Cloud functions API and Google Drive API for your project
 2. Identify the service account functions under IAM service accounts. Should resemble \<project-id>@appspot.gserviceaccount.com
 3. In Drive share the folder, or object with the service account identified in step 2.
 4. Create a storage bucket
